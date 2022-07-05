@@ -49,3 +49,19 @@
      font-size: 20px;
      margin-top: 20px;
  }
+
+ table {
+     margin-top: 20px;
+     margin-left: 10px;
+     text-align: left;
+ }
+
+
+ #table-head {
+     background-color: #20A9E5;
+     color: white;
+ }
+
+ .table-blue-row {
+     background-color: #B1E5F2;
+ }
