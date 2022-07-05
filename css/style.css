@@ -1,18 +1,51 @@
-* {
-    margin: 0;
-    padding: 0;
-}
+ * {
+     margin: 0;
+     padding: 0;
+ }
 
-#logo {
-    height: 70px;
-    margin-top: 50px;
-    margin-left: 10px;
-}
+ #logo {
+     height: 70px;
+     margin-top: 50px;
+     margin-left: 10px;
+ }
 
-header {
-    background-color: #4EA0FF;
-    background-image: url(../img/pattern.png);
-    background-repeat: repeat-x;
-    height: 135px;
-    background-size: 540px;
-}
+ header {
+     background-color: #4EA0FF;
+     background-image: url(../img/pattern.png);
+     background-repeat: repeat-x;
+     height: 135px;
+     background-size: 540px;
+ }
+
+ h1 {
+     font-size: 55px;
+     margin-left: 10px;
+     margin-top: 20px;
+ }
+
+ .article-info {
+     color: gray;
+     margin-left: 10px;
+     font-size: 20px;
+ }
+
+ #author {
+     color: #4EA0FF;
+ }
+
+ figure {
+     margin-top: 15px;
+     margin-left: 10px;
+ }
+
+ #first-text {
+     font-size: 20px;
+     margin-left: 10px;
+     margin-top: 20px;
+ }
+
+ .first-list {
+     margin-left: 10px;
+     font-size: 20px;
+     margin-top: 20px;
+ }
