@@ -3,6 +3,7 @@
      padding: 0;
  }
 
+ /* blog logo and banner */
  #logo {
      height: 70px;
      margin-top: 50px;
@@ -17,6 +18,7 @@
      background-size: 540px;
  }
 
+ /* article content */
  h1 {
      font-size: 55px;
      margin-left: 10px;
@@ -33,29 +35,33 @@
      color: #4EA0FF;
  }
 
+ /* article photos */
  figure {
      margin-top: 15px;
      margin-left: 10px;
  }
 
+ /* big text */
  #first-text {
      font-size: 20px;
      margin-left: 10px;
      margin-top: 20px;
  }
 
+ /* bullet points */
  .first-list {
      margin-left: 10px;
      font-size: 20px;
      margin-top: 20px;
  }
 
+ /* table */
  table {
      margin-top: 20px;
      margin-left: 10px;
      text-align: left;
+     margin-right: 10px;
  }
-
 
  #table-head {
      background-color: #20A9E5;
@@ -64,4 +70,36 @@
 
  .table-blue-row {
      background-color: #B1E5F2;
+ }
+
+ .third-column {
+     width: 50%;
+ }
+
+ /* related contents */
+ footer {
+     font-size: 25px;
+     color: white;
+     margin-left: 10px;
+     margin-top: 60px;
+ }
+
+ #last-text {
+     color: gray;
+     margin-bottom: 10px;
+ }
+
+ #first-banner {
+     width: 312px;
+     height: 208px;
+     background-image: url(../img/monitor.jpg);
+     background-size: 312px;
+ }
+
+ #second-banner {
+     margin-top: 15px;
+     width: 312px;
+     height: 207px;
+     background-image: url(../img/graph.jpg);
+     background-size: 311px;
  }
